@@ -1,3 +1,5 @@
+library(sqldf)
+library(dplyr)
 # get working directory
 wd<-getwd() 
 # get file path of file household_power_consumption.txt 

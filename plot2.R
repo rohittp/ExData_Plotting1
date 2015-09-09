@@ -1,5 +1,4 @@
 library(sqldf)
-library(lubridate)
 library(dplyr)
 # get working directory
 wd<-getwd() 
